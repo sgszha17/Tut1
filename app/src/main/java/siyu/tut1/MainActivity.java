@@ -24,5 +24,6 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        //String s = (String)findViewById(R.id.editText);
     }
 }
